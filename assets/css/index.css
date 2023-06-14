@@ -42,16 +42,6 @@ img {
     overflow: hidden;
 }
 
-.ptf-about {
-    display: flex;
-    justify-content: space-between;
-    height: 100vh;
-    text-align: center;
-    background-color: linear-gradient(0deg, rgba(65, 105, 225, 0.500), rgba(65, 105, 225, 0.500));
-    background-image: url(/assets/img/hero-bg.jpg);
-    overflow: hidden;
-}
-
 .ptf-about:nth-child(2) img:nth-child(1) {
     max-height: 300px;
     margin-top: auto;   
